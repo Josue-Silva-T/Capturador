@@ -1,4 +1,4 @@
-package AdvancedTopics.programa3;
+package Capturadora;
 
 import javax.swing.JFrame;
 //Nombre, Edad, Peso, Altura, Indice de masa corporal
