@@ -1,4 +1,4 @@
-package AdvancedTopics.programa3;
+package Capturadora;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
